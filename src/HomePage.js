@@ -26,13 +26,13 @@ const Homepage = () => {
           </div>
 
           <div className="button-group">
-            <a href="https://medium.com/your-profile" 
+            <a href="https://medium.com/@jayeshiitkgp1/automating-react-deployment-to-aws-s3-using-github-actions-a-step-by-step-guide-06bed44b5158" 
                target="_blank" 
                rel="noopener noreferrer" 
                className="button primary">
               Read the Tutorial
             </a>
-            <a href="https://github.com/your-username/your-repo" 
+            <a href="https://github.com/JayeshKGP/Medium-gh-actions-demo" 
                target="_blank" 
                rel="noopener noreferrer" 
                className="button secondary">
